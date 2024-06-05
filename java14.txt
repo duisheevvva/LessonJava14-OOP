@@ -1,0 +1,6 @@
+~~~~~~~~Peaksoft~~~~~~~~~
+Course: Java
+Group: Java 14
+Instructor: Aizat
+Mentor: Urmat, Nurkamil
+Students: Omurbek,Yryskeldi,Talant,Aigerim.....
